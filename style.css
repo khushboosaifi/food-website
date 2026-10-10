@@ -474,4 +474,10 @@ input[type="email"]:focus {
   .app-container .content h2 {
     font-size: 3.5rem;
   }
+
+  label {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
 }
